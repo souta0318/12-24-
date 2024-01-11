@@ -309,151 +309,151 @@ const championSkills = {
   },
   "イレリア": {
     "passive": {
-      "name": "パッシブ名",
-      "description": "イレリアのパッシブ説明文"
+      "name": "アイオニアの情熱",
+      "description": "スキル攻撃でスタック獲得。スタックに応じて攻撃速度増加、最大スタックで通常攻撃に追加ダメージ。"
     },
     "Q": {
-      "name": "Qスキル名",
-      "description": "イレリアのQスキル説明文"
+      "name": "瞬刃",
+      "description": "前方にダッシュし対象を攻撃、体力回復。キルまたはマーク対象でクールダウン解消"
     },
     "W": {
-      "name": "Wスキル名",
-      "description": "イレリアのWスキル説明文"
+      "name": "不屈の舞",
+      "description": "チャージ攻撃、長い時間でダメージ増加。チャージ中物理ダメージ減少"
     },
     "E": {
-      "name": "Eスキル名",
-      "description": "イレリアのEスキル説明文"
+      "name": "無欠の連舞",
+      "description": "2枚の刃を飛ばし、挟まれた敵にダメージとスタン"
     },
     "R": {
-      "name": "Rスキル名",
-      "description": "イレリアのRスキル説明文"
+      "name": "先陣の刃",
+      "description": "刃を飛ばし、敵チャンピオンに当たると広がりダメージとマーク。壁形成で越えた敵にダメージとスロウ。"
     }
   },
   "ヴァイ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ケンカの作法",
       "description": "ヴァイのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "真っすぐいってぶっとばす",
       "description": "ヴァイのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "メッタ打ち",
       "description": "ヴァイのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "無慈悲な連撃",
       "description": "ヴァイのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "突入捜査",
       "description": "ヴァイのRスキル説明文"
     }
   },
   "ヴァルス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "復讐の化身",
       "description": "ヴァルスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "乾坤一擲",
       "description": "ヴァルスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "枯死の矢筒",
       "description": "ヴァルスのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "滅びの矢雨",
       "description": "ヴァルスのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "穢れの連鎖",
       "description": "ヴァルスのRスキル説明文"
     }
   },
   "ヴィエゴ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "王の支配",
       "description": "ヴィエゴのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "滅びの王剣",
       "description": "ヴィエゴのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "亡霊の嘆き",
       "description": "ヴィエゴのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "彷徨える苦悶",
       "description": "ヴィエゴのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ハートブレイカー",
       "description": "ヴィエゴのRスキル説明文"
     }
   },
   "ウーコン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "岩の皮膚",
       "description": "ウーコンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "強棒打",
       "description": "ウーコンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "戦士の幻惑",
       "description": "ウーコンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "乱像猿技",
       "description": "ウーコンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "旋風猿風",
       "description": "ウーコンのRスキル説明文"
     }
   },
   "ヴェイン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ナイトハンター",
       "description": "ヴェインのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "タンブル",
       "description": "ヴェインのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "シルバーボルト",
       "description": "ヴェインのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "パニッシュメント",
       "description": "ヴェインのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ファイナルアワー",
       "description": "ヴェインのRスキル説明文"
     }
   },
   "ヴェックス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "フコウとユーウツ",
       "description": "ヴェックスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "無気力ショット",
       "description": "ヴェックスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "パーソナルスペース",
       "description": "ヴェックスのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ヤミとばし",
       "description": "ヴェックスのEスキル説明文"
     },
     "R": {
@@ -463,433 +463,433 @@ const championSkills = {
   },
   "ヴェル＝コズ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "有機分解",
       "description": "ヴェル＝コズのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "電離炸裂弾",
       "description": "ヴェル＝コズのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ヴォイドの裂谷",
       "description": "ヴェル＝コズのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "地殻砕裂",
       "description": "ヴェル＝コズのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "生命破壊光線",
       "description": "ヴェル＝コズのRスキル説明文"
     }
   },
   "ウディア": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "精霊の繋ぎ手",
       "description": "ウディアのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "野生の爪",
       "description": "ウディアのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "鉄の外皮",
       "description": "ウディアのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "焔の猛進",
       "description": "ウディアのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "氷翼の嵐",
       "description": "ウディアのRスキル説明文"
     }
   },
   "エイトロックス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "死兆の構え",
       "description": "エイトロックスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ダーキンブレード",
       "description": "エイトロックスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "炎獄の鎖",
       "description": "エイトロックスのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "影進撃",
       "description": "エイトロックスのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ワールドエンダー",
       "description": "エイトロックスのRスキル説明文"
     }
   },
   "エコー": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ゼロ・ドライブ",
       "description": "エコーのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "タイムワインダー",
       "description": "エコーのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "パラレルトラップ",
       "description": "エコーのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "フェイズダイブ",
       "description": "エコーのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "クロノブレイク",
       "description": "エコーのRスキル説明文"
     }
   },
   "エズリアル": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ライジングスペルフォース",
       "description": "エズリアルのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ミスティックショット",
       "description": "エズリアルのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "エッセンスフラックス",
       "description": "エズリアルのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "アーケインシフト",
       "description": "エズリアルのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "トゥルーショットバラージ",
       "description": "エズリアルのRスキル説明文"
     }
   },
   "エリス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "蜘蛛の女帝",
       "description": "エリスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "神経毒/毒牙",
       "description": "エリスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "子蜘蛛爆弾/猛食",
       "description": "エリスのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "繭化/蜘蛛の糸",
       "description": "エリスのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "蜘蛛形態",
       "description": "エリスのRスキル説明文"
     }
   },
   "オーン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "歩く鍛冶場",
       "description": "オーンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "溶岩隆起",
       "description": "オーンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ふいごの息",
       "description": "オーンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "灼熱の突撃",
       "description": "オーンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "鍛冶神の呼び声",
       "description": "オーンのRスキル説明文"
     }
   },
   "オラフ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "狂戦士の怒り",
       "description": "オラフのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "斧投げ",
       "description": "オラフのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "根性比べ",
       "description": "オラフのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "捨て身切り",
       "description": "オラフのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ラグナロク",
       "description": "オラフのRスキル説明文"
     }
   },
   "オリアナ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ぜんまい仕掛け",
       "description": "オリアナのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "オーダー：攻撃",
       "description": "オリアナのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "オーダー：乱磁場",
       "description": "オリアナのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "オーダー：防御",
       "description": "オリアナのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "オーダー：ショックウェーブ",
       "description": "オリアナのRスキル説明文"
     }
   },
   "オレリオン・ソル": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "宇宙の創造者",
       "description": "オレリオン・ソルのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "星炎の息吹",
       "description": "オレリオン・ソルのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "天空への飛翔",
       "description": "オレリオン・ソルのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "特異点",
       "description": "オレリオン・ソルのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "星の邂逅 / 崩れ落つ天穹",
       "description": "オレリオン・ソルのRスキル説明文"
     }
   },
   "カ＝ジックス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "見えざる脅威",
       "description": "カ＝ジックスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "甘美なる恐怖",
       "description": "カ＝ジックスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ヴォイドの刺棘",
       "description": "カ＝ジックスのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "リープ",
       "description": "カ＝ジックスのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "捕食の本能",
       "description": "カ＝ジックスのRスキル説明文"
     }
   },
   "カーサス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "怨嗟の叫び",
       "description": "カーサスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "根絶やし",
       "description": "カーサスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "嘆きの壁",
       "description": "カーサスのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "冒涜",
       "description": "カーサスのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "鎮魂歌",
       "description": "カーサスのRスキル説明文"
     }
   },
   "カイ＝サ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ヴォイドスキン",
       "description": "カイ＝サのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "イカシアの雨",
       "description": "カイ＝サのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ヴォイドシーカー",
       "description": "カイ＝サのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "スーパーチャージ",
       "description": "カイ＝サのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
-      "description": "カイ＝サのRスキル説明文"
+      "name": "キラーヴォイド",
+      "description": "敵の近くまでダッシュし、シールドを獲得します。"
     }
   },
   "カサディン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ヴォイドストーン",
       "description": "カサディンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ヴォイドスフィア",
       "description": "カサディンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ネザーブレード",
       "description": "カサディンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ヴォイドパルス",
       "description": "カサディンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "リフトウォーク",
       "description": "カサディンのRスキル説明文"
     }
   },
   "カ・サンテ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "不屈の本能",
       "description": "カ・サンテのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "破撃のエントーフォ",
       "description": "カ・サンテのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "切り開く猛進",
       "description": "カ・サンテのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "辰砂の足取り",
       "description": "カ・サンテのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "オールアウト",
       "description": "カ・サンテのRスキル説明文"
     }
   },
   "カシオペア": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "妖艶な蛇行",
       "description": "カシオペアのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ノクサスブラスト",
       "description": "カシオペアのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ミアズマ",
       "description": "カシオペアのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ツインファング",
       "description": "カシオペアのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "石化の魔眼",
       "description": "カシオペアのRスキル説明文"
     }
   },
   "カタリナ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "貪欲なる暗殺者",
       "description": "カタリナのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "バウンドナイフ",
       "description": "カタリナのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "プリペレーション",
       "description": "カタリナのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "瞬歩",
       "description": "カタリナのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "デスロータス",
       "description": "カタリナのRスキル説明文"
     }
   },
   "カミール": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "アダプティブディフェンス",
       "description": "カミールのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "プレシジョンプロトコル",
       "description": "カミールのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "タクティカルスイープ",
       "description": "カミールのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "フックショット",
       "description": "カミールのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ヘクステック・アルティメイタム",
       "description": "カミールのRスキル説明文"
     }
   },
   "ガリオ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "巨像の一撃",
       "description": "ガリオのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "戦の旋風",
       "description": "ガリオのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "デュランドの守り",
       "description": "ガリオのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "正義の鉄拳",
       "description": "ガリオのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "英雄降臨",
       "description": "ガリオのRスキル説明文"
     }
   },
   "カリスタ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "戦の所作",
       "description": "カリスタのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "貫魂の一投",
       "description": "カリスタのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "執念の霊魂",
       "description": "カリスタのWスキル説明文"
     },
     "E": {
