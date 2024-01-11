@@ -1651,221 +1651,221 @@ const championSkills = {
   },
   "シンジド": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "スリップストリーム",
       "description": "シンジドのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "毒の軌跡",
       "description": "シンジドのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "強力粘着剤",
       "description": "シンジドのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "すくい投げ",
       "description": "シンジドのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "狂人のポーション",
       "description": "シンジドのRスキル説明文"
     }
   },
   "シン・ジャオ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "不退転",
       "description": "シン・ジャオのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "三槍撃",
       "description": "シン・ジャオのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "風成雷鳴",
       "description": "シン・ジャオのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "兵貴神速",
       "description": "シン・ジャオのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "三日月槍守",
       "description": "シン・ジャオのRスキル説明文"
     }
   },
   "シンドラ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "絶大なる魔力",
       "description": "シンドラのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ダークスフィア",
       "description": "シンドラのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ダークフォース",
       "description": "シンドラのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "闇の波導",
       "description": "シンドラのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "魔力の奔流",
       "description": "シンドラのRスキル説明文"
     }
   },
   "スウェイン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "恐襲の魔鴉",
       "description": "スウェインのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "死の手",
       "description": "スウェインのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "帝国の眼",
       "description": "スウェインのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "束縛の爪",
       "description": "スウェインのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "魔帝戴冠",
       "description": "スウェインのRスキル説明文"
     }
   },
   "スカーナー": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "クリスタルスピア",
       "description": "スカーナーのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "クリスタルスラッシュ",
       "description": "スカーナーのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "クリスタリング",
       "description": "スカーナーのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "フラクチャー",
       "description": "スカーナーのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "インペイル",
       "description": "スカーナーのRスキル説明文"
     }
   },
   "スレッシュ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "魂の束縛",
       "description": "スレッシュのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "死の宣告",
       "description": "スレッシュのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "嘆きの魂灯",
       "description": "スレッシュのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "絶望の鎖",
       "description": "スレッシュのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "魂の牢獄",
       "description": "スレッシュのRスキル説明文"
     }
   },
   "セジュアニ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "極北の激憤",
       "description": "セジュアニのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "猪突凍進",
       "description": "セジュアニのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "氷河の怒り",
       "description": "セジュアニのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "永久凍土",
       "description": "セジュアニのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "グレイシャルプリズン",
       "description": "セジュアニのRスキル説明文"
     }
   },
   "セト": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ファイティングスピリット",
       "description": "セトのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ナックルダウン",
       "description": "セトのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ヘイメイカー",
       "description": "セトのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "フェイスブレイカー",
       "description": "セトのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ショーストッパー",
       "description": "セトのRスキル説明文"
     }
   },
   "ゼド": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "弱者必衰",
       "description": "ゼドのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "風魔手裏剣",
       "description": "ゼドのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "影分身",
       "description": "ゼドのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "影薙ぎ",
       "description": "ゼドのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "死の刻印",
       "description": "ゼドのRスキル説明文"
     }
   },
   "セナ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "魂の赦し",
       "description": "セナのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ピアシングダークネス",
       "description": "セナのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "最期の抱擁",
       "description": "セナのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "黒き霧の呪い",
       "description": "セナのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ドーニングシャドウ",
       "description": "セナのRスキル説明文"
     }
   },
