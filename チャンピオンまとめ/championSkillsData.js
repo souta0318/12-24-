@@ -1453,199 +1453,199 @@ const championSkills = {
   },
   "シェン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "内気功",
       "description": "シェンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "護刃招来",
       "description": "シェンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "防人の帳",
       "description": "シェンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "殺気駆け",
       "description": "シェンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "瞬身護法",
       "description": "シェンのRスキル説明文"
     }
   },
   "ジグス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ショートヒューズ",
       "description": "ジグスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "バウンドボム",
       "description": "ジグスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "エンジニアボム",
       "description": "ジグスのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ヘクステックマイン",
       "description": "ジグスのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "メガインフェルノボム",
       "description": "ジグスのRスキル説明文"
     }
   },
   "ジャーバンⅣ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "武魂の律動",
       "description": "ジャーバンⅣのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ドラゴンストライク",
       "description": "ジャーバンⅣのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ゴールデンイージス",
       "description": "ジャーバンⅣのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "デマーシアの旗印",
       "description": "ジャーバンⅣのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "決戦場",
       "description": "ジャーバンⅣのRスキル説明文"
     }
   },
   "シャコ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "バックスタブ",
       "description": "シャコのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "幻惑",
       "description": "シャコのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "びっくり箱",
       "description": "シャコのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ポイズンダガー",
       "description": "シャコのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ハルシネイト",
       "description": "シャコのRスキル説明文"
     }
   },
   "ジャックス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "アサルトアタック",
       "description": "ジャックスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "リープストライク",
       "description": "ジャックスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "パワーバッシュ",
       "description": "ジャックスのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "カウンターストライク",
       "description": "ジャックスのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ウェポングランドマスター",
       "description": "ジャックスのRスキル説明文"
     }
   },
   "ジャンナ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "テイルウィンド",
       "description": "ジャンナのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ハウリングゲイル",
       "description": "ジャンナのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ゼファー",
       "description": "ジャンナのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ストームブレス",
       "description": "ジャンナのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "モンスーン",
       "description": "ジャンナのRスキル説明文"
     }
   },
   "ジリアン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "タイムインボトル",
       "description": "ジリアンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "タイムボム",
       "description": "ジリアンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "リワインド",
       "description": "ジリアンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "タイムワープ",
       "description": "ジリアンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "クロノシフト",
       "description": "ジリアンのRスキル説明文"
     }
   },
   "ジン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "この銃の名は｢囁き｣",
       "description": "ジンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "｢爆ぜ狂う果実｣",
       "description": "ジンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "｢死者への狂奏曲｣",
       "description": "ジンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "｢女神の抱擁｣",
       "description": "ジンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "｢終演 -フィナーレ-｣",
       "description": "ジンのRスキル説明文"
     }
   },
   "ジンクス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "超エキサイティン！",
       "description": "ジンクスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "スイッチング！",
       "description": "ジンクスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "シビレーザー！",
       "description": "ジンクスのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "パックンチョッパー！",
       "description": "ジンクスのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "スーパーメガデスロケット！",
       "description": "ジンクスのRスキル説明文"
     }
   },
