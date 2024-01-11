@@ -2465,45 +2465,45 @@ const championSkills = {
   },
   "ニダリー": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "品定め",
       "description": "ニダリーのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "槍投げ/テイクダウン",
       "description": "ニダリーのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "虎挟み/ジャンプ",
       "description": "ニダリーのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "高揚/クロウ",
       "description": "ニダリーのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "クーガーの心",
       "description": "ニダリーのRスキル説明文"
     }
   },
   "ヌヌ＆ウィルンプ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "フレヨルドの呼び声",
       "description": "ヌヌ＆ウィルンプのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "丸かじり",
       "description": "ヌヌ＆ウィルンプのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "超特大の雪玉！",
       "description": "ヌヌ＆ウィルンプのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "雪玉連射",
       "description": "ヌヌ＆ウィルンプのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "アブソリュート・ゼロ",
       "description": "ヌヌ＆ウィルンプのRスキル説明文"
     }
   },
