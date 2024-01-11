@@ -1871,331 +1871,331 @@ const championSkills = {
   },
   "ゼラス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "マナサージ",
       "description": "ゼラスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "アルカノパルス",
       "description": "ゼラスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "デストラクションアイ",
       "description": "ゼラスのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ショックオーブ",
       "description": "ゼラスのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "アーケーンライト",
       "description": "ゼラスのRスキル説明文"
     }
   },
   "セラフィーン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ステージプレゼンス",
       "description": "セラフィーンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ハイノート",
       "description": "セラフィーンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "サラウンドサウンド",
       "description": "セラフィーンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ビートドロップ",
       "description": "セラフィーンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "アンコール",
       "description": "セラフィーンのRスキル説明文"
     }
   },
   "ゼリ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "生体バッテリー",
       "description": "ゼリのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "バーストファイア",
       "description": "ゼリのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ウルトラショックレーザー",
       "description": "ゼリのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "スパークサージ",
       "description": "ゼリのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ライトニングクラッシュ",
       "description": "ゼリのRスキル説明文"
     }
   },
   "ゾーイ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "スパークル！",
       "description": "ゾーイのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "パドルスター",
       "description": "ゾーイのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "スペルシーフ",
       "description": "ゾーイのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "スリープバブル",
       "description": "ゾーイのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ポータルジャンプ",
       "description": "ゾーイのRスキル説明文"
     }
   },
   "ソナ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "パワーコード",
       "description": "ソナのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ヒム・オブ・ヴァロー",
       "description": "ソナのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "パーセヴァランス",
       "description": "ソナのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "セレリティ",
       "description": "ソナのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "クレッシェンド",
       "description": "ソナのRスキル説明文"
     }
   },
   "ソラカ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "救済の足音",
       "description": "ソラカのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "星のささやき",
       "description": "ソラカのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "星霊の癒し",
       "description": "ソラカのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "星の静寂",
       "description": "ソラカのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "星に願いを",
       "description": "ソラカのRスキル説明文"
     }
   },
   "ダイアナ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "繊月の刃",
       "description": "ダイアナのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "月影",
       "description": "ダイアナのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "朧月の羽衣",
       "description": "ダイアナのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "月下美刃",
       "description": "ダイアナのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "崩月",
       "description": "ダイアナのRスキル説明文"
     }
   },
   "タム・ケンチ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "舌慣らし",
       "description": "タム・ケンチのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "味見",
       "description": "タム・ケンチのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "川潜り",
       "description": "タム・ケンチのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ゆるゆる皮膜",
       "description": "タム・ケンチのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "丸呑み",
       "description": "タム・ケンチのRスキル説明文"
     }
   },
   "ダリウス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "大出血",
       "description": "ダリウスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "皆殺しの斧",
       "description": "ダリウスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "脚削ぎ",
       "description": "ダリウスのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "捕縛",
       "description": "ダリウスのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ノクサスギロチン",
       "description": "ダリウスのRスキル説明文"
     }
   },
   "タリック": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ブラバド",
       "description": "タリックのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "スターライトタッチ",
       "description": "タリックのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "バスティオン",
       "description": "タリックのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ダズル",
       "description": "タリックのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "コズミックレディアンス",
       "description": "タリックのRスキル説明文"
     }
   },
   "タリヤ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ロックサーフィン",
       "description": "タリヤのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "スレッドボレー",
       "description": "タリヤのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "サイズミックシャーブ",
       "description": "タリヤのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "アンレイベルアース",
       "description": "タリヤのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ウィーバーウォール",
       "description": "タリヤのRスキル説明文"
     }
   },
   "タロン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "血塗られし慈悲",
       "description": "タロンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ノクサスの刃",
       "description": "タロンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "飛燕手裏剣",
       "description": "タロンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "暗殺者の跳躍",
       "description": "タロンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "シャドウアサルト",
       "description": "タロンのRスキル説明文"
     }
   },
   "チョ＝ガス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "暴食",
       "description": "チョ＝ガスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ラプチャー",
       "description": "チョ＝ガスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "スクリーム",
       "description": "チョ＝ガスのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ヴォーパルスパイク",
       "description": "チョ＝ガスのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "捕食",
       "description": "チョ＝ガスのRスキル説明文"
     }
   },
   "ツイステッド・フェイト": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "イカサマダイス",
       "description": "ツイステッド・フェイトのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ワイルドカード",
       "description": "ツイステッド・フェイトのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ドロー",
       "description": "ツイステッド・フェイトのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "スタックデッキ",
       "description": "ツイステッド・フェイトのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "デスティニー",
       "description": "ツイステッド・フェイトのRスキル説明文"
     }
   },
   "ティーモ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "やぶからヨードル",
       "description": "ティーモのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "目つぶしダーツ",
       "description": "ティーモのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "駆け足！",
       "description": "ティーモのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "毒たっぷり吹き矢",
       "description": "ティーモのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "毒キノコ",
       "description": "ティーモのRスキル説明文"
     }
   },
