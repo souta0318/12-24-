@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>LoLまとめサイト
+  </title>
+  <link rel="stylesheet" href="team構成.css">
+</head>
+<body>
+  <div class="header">
+    <!-- ヘッダーが入ります -->
+    <h1>
+      LoLまとめサイト
+    </h1>
+  </div>
+  <div class="main">
+    <div class="main-contents">
+      <!-- メインコンテンツ -->
+      <h1>LoLチーム構成サイト</h1>
+      
+      <form id="team-formation-form">
+        <button class="button" type="submit">チーム構成を確認</button><br>
+        <label for="top-laner">トップレーナー</label>
+        <select id="top-laner">
+        </select>
+
+        <label for="jungler">ジャングラー</label>
+        <select id="jungler">
+        </select>
+
+        <label for="mid-laner">ミッドレーナー</label>
+        <select id="mid-laner">
+        </select>
+
+        <label for="adc">ADC</label>
+        <select id="adc">
+        </select>
+
+        <label for="support">サポート</label>
+        <select id="support">
+        </select>
+
+        <br>
+      </form>
+      <div id="result"></div>
+
+      <h2>チーム構成結果</h2>
+      <p id="team-composition"></p>
+      <table id="team-composition-table">
+          <tbody></tbody>
+      </table>
+      <h2>合計ダメージ割合帯グラフ</h2>
+      <div id="damage-chart"></div>
+
+      <script src="../チャンピオンまとめ/チャンピオンデータ.js"></script>
+      <script src="team構成Script.js"></script>
+    </div>
+
+    <div class="right-navi">
+      <!-- 右側のカラム -->
+    </div>
+  </div>
+
+  <div class="left-navi">
+    <!-- 左側のカラム -->
+    <a href="../index.html" class="button">Topページへ</a></p>
+    <a href="../チャンピオンまとめ/LoLチャンピオンまとめ.html" class="button">チャンピオン一覧</a></p>
+    <a href="../アイテムまとめ/アイテムまとめ.html" class="button">アイテム一覧</a></p>
+    <a href="../ルーン紹介/ルーンまとめ.html" class="button">ルーンについて</a></p>
+    <a href="../LoL用語解説/LoL用語解説.html" class="button">LoL用語まとめ</a></p>
+    <a href="../サモナースペル/サモナースペル.html" class="button">サモナースペル説明</a></p>
+    <a href="team構成.html" class="button">チーム構成確認</a>
+  </div>
+
+  <div class="footer">
+  <!--はフッターメニューが入ります-->
+  <!-- </div> -->
+</body>
+</html>

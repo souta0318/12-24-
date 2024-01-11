@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>LoLチャンピオンまとめ</title>
+  <link rel="stylesheet" href="LoLチャンピオンまとめ.css">
+</head>
+<body>
+  <div class="header">
+    <!-- ヘッダーが入ります -->
+    <h1>
+      LoLまとめサイト
+    </h1>
+  </div>
+  <div class="main">
+    <div class="main-contents">
+      <!-- メインコンテンツ -->
+      <h2>チャンピオンまとめ</h2>
+      <div class="filter-container">
+        <label for="lane-filter">適正レーンで検索：</label>
+        <button data-lane="" onclick="applyFilters(event.target.dataset.lane)">All</button>
+        <button data-lane="TOP" onclick="applyFilters(event.target.dataset.lane)">TOP</button>
+        <button data-lane="JG" onclick="applyFilters(event.target.dataset.lane)">JG</button>
+        <button data-lane="MID" onclick="applyFilters(event.target.dataset.lane)">MID</button>
+        <button data-lane="ADC" onclick="applyFilters(event.target.dataset.lane)">ADC</button>
+        <button data-lane="SUP" onclick="applyFilters(event.target.dataset.lane)">SUP</button>
+      </div>
+      <div class="filter-container">
+        <label for="role-filter">ロールで検索：</label>
+        <button data-role="" onclick="applyFilters(null, event.target.dataset.role)">All</button>
+        <button data-role="アサシン" onclick="applyFilters(null, event.target.dataset.role)">アサシン</button>
+        <button data-role="ファイター" onclick="applyFilters(null, event.target.dataset.role)">ファイター</button>
+        <button data-role="メイジ" onclick="applyFilters(null, event.target.dataset.role)">メイジ</button>
+        <button data-role="マークスマン" onclick="applyFilters(null, event.target.dataset.role)">マークスマン</button>
+        <button data-role="サポート" onclick="applyFilters(null, event.target.dataset.role)">サポート</button>
+        <button data-role="タンク" onclick="applyFilters(null, event.target.dataset.role)">タンク</button>
+      </div>
+      <div class="filter-container">
+        <label for="name-filter">チャンピオン名で検索：</label>
+        <input type="text" id="name-filter">
+        <button id="search-button" onclick="applyFilters()">検索</button>
+      </div>
+      <div id="champions-container"></div>
+
+      <script src="チャンピオンデータ.js"></script>
+      <script src="LoLチャンピオンまとめscript.js"></script>
+    </div>
+
+    <!-- <div class="right-navi"> -->
+      <!-- 右側のカラム -->
+    <!-- </div> -->
+  </div>
+
+  <div class="left-navi">
+    <!-- 左側のカラム -->
+    <a href="../index.html" class="button">Topページへ</a></p>
+    <a href="LoLチャンピオンまとめ.html" class="button">チャンピオン一覧</a></p>
+    <a href="../アイテムまとめ/アイテムまとめ.html" class="button">アイテム一覧</a></p>
+    <a href="../ルーン紹介/ルーンまとめ.html" class="button">ルーンについて</a></p>
+    <a href="../LoL用語解説/LoL用語解説.html" class="button">LoL用語まとめ</a></p>
+    <a href="../サモナースペル/サモナースペル.html" class="button">サモナースペル説明</a></p>
+    <a href="../team構成/team構成.html" class="button">チーム構成確認</a>
+  </div>
+
+  <!-- <div class="footer"> -->
+  <!--はフッターメニューが入ります-->
+  <!-- </div> -->
+</body>
+</html>

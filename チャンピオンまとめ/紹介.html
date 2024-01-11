@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>チャンピオン紹介</title>
+  <link rel="stylesheet" href="LoLチャンピオンまとめ.css">
+</head>
+<body>
+  <div class="header">
+    <h1>
+      <img id="champion-img" alt="チャンピオン画像" width="50">
+      <span id="champion-name"></span>
+    </h1>
+  </div>
+  <div class="main-contents">
+    <h2>ロール: <span id="champion-role"></span></h2>
+    <h2>ダメージ割合</h2>
+    <div id="damage-bar" class="damage-bar"></div>
+    <h2>適正レーン: <span id="champion-lane"></span></h2>
+    <div class="skills-section">
+      <h2>スキル</h2>
+      <div id="skills-list"></div>
+    </div>
+  </div>
+
+  <script src="チャンピオンデータ.js"></script>
+  <script src="championSkillsData.js"></script> <!-- 追加 -->
+  <script>
+    // URLからクエリパラメータを取得
+    const urlParams = new URLSearchParams(window.location.search);
+    const championName = urlParams.get('name');
+
+    // チャンピオンデータから対象のチャンピオンを検索
+    const champion = champions.find(ch => ch.name === championName);
+    if (champion) {
+      // データをHTMLに挿入
+      document.getElementById('champion-name').textContent = champion.name;
+      document.getElementById('champion-img').src = champion.imgSrc;
+      document.getElementById('champion-role').textContent = champion.role;
+      document.getElementById('champion-lane').textContent = champion.lane;
+
+      // ダメージ割合のバーを生成
+      const damageBar = document.getElementById('damage-bar');
+      ['AD', 'AP', 'True'].forEach(type => {
+        const bar = document.createElement('div');
+        bar.classList.add(`${type.toLowerCase()}-bar`);
+        bar.style.width = `${champion.damage[type]}%`;
+        bar.textContent = `${champion.damage[type]}%`;
+        damageBar.appendChild(bar);
+      });
+
+      // スキルデータから対象のチャンピオンのスキルを検索
+      const championSkillsData = championSkills[champion.name];
+      if (championSkillsData) {
+        // スキルデータをHTMLに挿入
+        const skillsList = document.getElementById('skills-list');
+        ['passive', 'Q', 'W', 'E', 'R'].forEach(skillType => {
+          const skillData = championSkillsData[skillType];
+          if (skillData) {
+            const skillDiv = document.createElement('div');
+            skillDiv.classList.add('skill');
+
+            const skillName = document.createElement('h3');
+            skillName.textContent = skillData.name;
+            skillDiv.appendChild(skillName);
+
+            const skillDescription = document.createElement('p');
+            skillDescription.textContent = skillData.description;
+            skillDiv.appendChild(skillDescription);
+
+            skillsList.appendChild(skillDiv);
+          }
+        });
+      }
+    }
+  </script>
+</body>
+</html>

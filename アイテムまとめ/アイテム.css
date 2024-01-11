@@ -1,0 +1,201 @@
+body {
+    background-color: rgb(0, 0, 0);
+  }
+  
+  .header {
+    height: 10%;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  .footer {
+    height: 10%;
+    background: rgb(185, 185, 185);
+    color: #fff;
+    clear: both;
+  }
+  
+  .main-contents,
+  .left-navi,
+  .right-navi {
+    height: 100%;
+  }
+  
+  .main-contents {
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+    float: left;
+    width: 80%;
+  }
+  
+  .left-navi {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    width: 10%;
+    float: right;
+  }
+  
+  .right-navi {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    float: right;
+    width: 10%;
+  }
+  
+  .main {
+    width: 90%;
+    float: right;
+  }
+  
+  h1,
+  h2 {
+    color: #2464a0;
+  }
+  
+  /* ボタンのスタイル */
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #2464a0;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  td {
+    color: #ffffff;
+    width: 150px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ffffff; /* ボーダーのスタイル */
+  }
+  
+  th,
+  td {
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #ffffff; /* ボーダーのスタイル */
+  }
+  
+  th {
+    background-color: #40678f;
+    color: #000000;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #000000;
+  }
+  
+  .filter-container {
+    margin-bottom: 5px;
+  }
+  
+  .filter-container label {
+    margin-right: 5px;
+  }
+  
+  .damage-bar {
+    display: flex;
+    height: 20px;
+    background-color: black;
+    margin: 5px 0;
+  }
+  
+  .ad-bar,
+  .ap-bar,
+  .true-bar {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    color: #ffffff;
+  }
+  
+  .ad-bar {
+    background-color: red;
+  }
+  
+  .ap-bar {
+    background-color: blue;
+  }
+  
+  .true-bar {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .sort-button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+    padding: 0;
+  }
+  
+  .teambutton{
+    background-color: #4CAF50;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+  }
+  
+  
+  img {
+    width: 35px;
+    height: 35px;
+    }
+  
+  
+  
+    .chart {
+      display: flex;
+      height: 20px;
+    }
+    
+    .bar {
+      height: 100%;
+    }
+
+
+
+    /* #mythicitem-tableのヘッダーの幅を変更 */
+#mythicitem-table th:nth-child(1) {
+  width: 100px;  /* 幅をpxに設定 */
+}
+#mythicitem-table th:nth-child(2) {
+  width: 100px;  /* 幅をpxに設定 */
+}
+#mythicitem-table th:nth-child(3) {
+  width: 200px;  /* 幅をpxに設定 */
+}
+#mythicitem-table th:nth-child(4) {
+  width: 200px;  /* 幅をpxに設定 */
+}
+#mythicitem-table th:nth-child(5) {
+  width: 50px;  /* 幅をpxに設定 */
+}
+
+
+    /* #legendaryitem-tableのヘッダーの幅を変更 */
+    #legendaryitem-table th:nth-child(1) {
+      width: 100px;  /* 幅をpxに設定 */
+    }
+    #legendaryitem-table th:nth-child(2) {
+      width: 100px;  /* 幅をpxに設定 */
+    }
+    #legendaryitem-table th:nth-child(3) {
+      width: 300px;  /* 幅をpxに設定 */
+    }
+    #legendaryitem-table th:nth-child(4) {
+      width: 50px;  /* 幅をpxに設定 */
+    }
