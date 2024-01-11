@@ -893,121 +893,121 @@ const championSkills = {
       "description": "カリスタのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "引き裂く遺恨",
       "description": "カリスタのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "宿命の呼び声",
       "description": "カリスタのRスキル説明文"
     }
   },
   "カルマ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "寄せ火",
       "description": "カルマのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "心炎",
       "description": "カルマのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "魂縛",
       "description": "カルマのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "激励",
       "description": "カルマのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "マントラ",
       "description": "カルマのRスキル説明文"
     }
   },
   "ガレン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "タフガイ",
       "description": "ガレンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "断固たる一撃",
       "description": "ガレンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "勇気の護り",
       "description": "ガレンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ジャッジメント",
       "description": "ガレンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "デマーシアの正義",
       "description": "ガレンのRスキル説明文"
     }
   },
   "ガングプランク": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "背水の銃剣",
       "description": "ガングプランクのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "偽りの発砲",
       "description": "ガングプランクのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "壊血病治癒",
       "description": "ガングプランクのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "火薬樽",
       "description": "ガングプランクのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "一斉砲撃",
       "description": "ガングプランクのRスキル説明文"
     }
   },
   "キヤナ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "女帝の威風",
       "description": "キヤナのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "エレメントの怒り/イシュタルの切先",
       "description": "キヤナのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "大地の力",
       "description": "キヤナのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "俊烈",
       "description": "キヤナのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "天賦絢爛",
       "description": "キヤナのRスキル説明文"
     }
   },
   "キンドレッド": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "キンドレッドの刻印",
       "description": "キンドレッドのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "矢の輪舞",
       "description": "キンドレッドのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "狼の激昂",
       "description": "キンドレッドのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "忍び寄る恐怖",
       "description": "キンドレッドのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "羊の執行猶予",
       "description": "キンドレッドのRスキル説明文"
     }
   },
