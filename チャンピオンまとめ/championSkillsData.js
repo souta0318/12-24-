@@ -1013,23 +1013,23 @@ const championSkills = {
   },
   "クイン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "鷲匠",
       "description": "クインのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "暗闇の強襲",
       "description": "クインのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "鷲の眼",
       "description": "クインのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "飛翔撃",
       "description": "クインのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "相棒",
       "description": "クインのRスキル説明文"
     }
   },
